@@ -5,6 +5,6 @@
 - 📫 https://t.me/dk_botx...
 
 <!---
-DKBOTx/DKBOTx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DKBOTxTG/DKBOTxTG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
